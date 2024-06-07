@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola a Todos! 👋
+### Sobre Mí
+¡Bienvenido a mi perfil de GitHub! 
+Actualmente, me estoy formando en el fascinante campo de la Inteligencia Artificial.
 
-<!--
-**angelsc75/angelsc75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Además, cuento con formación como desarrollador fullstack. Mi stack tecnológico incluye:
 
-Here are some ideas to get you started:
+Backend: Spring Boot y Java 
+ 
+Frontend: Angular 
+### Formación y Experiencia
+Desarrollador Fullstack
+Tengo experiencia desarrollando aplicaciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java y Spring Boot para crear servicios backend eficientes y seguros.
+Angular para construir interfaces de usuario dinámicas y receptivas.
+
+### Mis Hobbies
+Fuera del mundo de la tecnología, me gusta el arte. 
+
+
+
