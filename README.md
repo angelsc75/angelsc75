@@ -12,9 +12,6 @@ Frontend: Angular
 Desarrollador Fullstack
 Tengo experiencia desarrollando aplicaciones.
 
-Java y Spring Boot para crear servicios backend eficientes y seguros.
-Angular para construir interfaces de usuario dinámicas y receptivas.
-
 ### Mis Hobbies
 Fuera del mundo de la tecnología, me gusta el arte. 
 
