@@ -1,4 +1,4 @@
-# ¡Hola a Todos! 👋
+# ¡Hola a Todos! 
 ### Sobre Mí
 ¡Bienvenido a mi perfil de GitHub! 
 Actualmente, me estoy formando en el fascinante campo de la Inteligencia Artificial.
