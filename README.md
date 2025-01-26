@@ -37,34 +37,27 @@ Actualmente, me estoy formando en el campo de la Inteligencia Artificial.
 
 
 
- ## ¡Hola! 👋 Bienvenido a mi perfil
-
-Aquí tienes algunos de mis repositorios destacados:
-
-| Repositorio | Descripción  |
-|-------------|--------------|
-| [rutina](https://github.com/angelsc75/rutina) | Generador de contenido automático para redes sociales. |
-| [otro-repo](https://github.com/angelsc75/otro-repo) | Un proyecto increíble. |
 
 
-## ⭐ Pinned Repositories
+
+## ⭐ Repositorios destacados
 
 <div style="border: 2px solid #4caf50; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   <h3><a href="https://github.com/angelsc75/rutina">🌟 Rutina</a></h3>
-  <p>Un generador de contenido para redes sociales, que ofrece información financiera y redacta artículos científicos.</p>
+  <p>Un generador de contenido para redes sociales, que ofrece información financiera y además redacta artículos científicos consultando los papers más relevantes de cada tema.</p>
   <p>
-    <img src="https://img.shields.io/github/stars/angelsc75/rutina?style=social" alt="Stars">
-    <img src="https://img.shields.io/github/forks/angelsc75/rutina?style=social" alt="Forks">
-    <img src="https://img.shields.io/github/languages/top/angelsc75/rutina" alt="Language">
+    <img src="https://img.shields.io/github/stars/angelsc75/Rutina?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/forks/angelsc75/Rutina?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/languages/top/angelsc75/Rutina" alt="Language">
   </p>
 </div>
 
 <div style="border: 2px solid #4caf50; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
-  <h3><a href="https://github.com/angelsc75/rutina">🌟 Rutina</a></h3>
-  <p>Un generador de contenido para redes sociales, que ofrece información financiera y redacta artículos científicos.</p>
+  <h3><a href="https://github.com/angelsc75/Il-Consigliere">🌟 Il-Consigliere</a></h3>
+  <p>Recomendador de películas entrenado con el dataset de MovieLens y que entrena un modelo de red neuronal con la base de datos Neoj4 y se conecta a la api de TMDB.</p>
   <p>
-    <img src="https://img.shields.io/github/stars/angelsc75/rutina?style=social" alt="Stars">
-    <img src="https://img.shields.io/github/forks/angelsc75/rutina?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/stars/angelsc75/Il-Consigliere?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/forks/angelsc75/Il-Consigliere?style=social" alt="Forks">
     <img src="https://img.shields.io/github/languages/top/angelsc75/Il-Consigliere" alt="Language">
   </p>
 </div>
