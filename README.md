@@ -25,7 +25,7 @@ Actualmente, me estoy formando en el campo de la IA como Científico de Datos...
       </td>
       <td>
         <ul>
-          <li>🔄 Ciclo de vida completo de proyectos (End-to-End)</li>
+          <li>🔄 Conocimiento sobre Ciclo de vida completo de proyectos (End-to-End)</li>
           <li>💻 Programación orientada a objetos (<strong>Java</strong> | <strong>Python</strong>)</li>
           <li>🔍 EDA y visualización de datos</li>
           <li>🛠️Bases de datos relacionales y no relacionales (<strong>MySQL</strong> | <strong>PostgreSQL</strong> | <strong>MongoDB</strong> | <strong>Neo4j</strong>)</li>
