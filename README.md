@@ -45,6 +45,7 @@ Actualmente, me estoy formando en el campo de la Inteligencia Artificial.
 <div style="border: 2px solid #4caf50; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   <h3><a href="https://github.com/angelsc75/rutina">🌟 Rutina</a></h3>
   <p>Un generador de contenido para redes sociales, que ofrece información financiera y además redacta artículos científicos consultando los papers más relevantes de cada tema.</p>
+  <p>Tecnologías: Python | LLMs | RAG | LangSmith | LangChain | Streamlit | Docker  </p>
   <p>
     <img src="https://img.shields.io/github/stars/angelsc75/Rutina?style=social" alt="Stars">
     <img src="https://img.shields.io/github/forks/angelsc75/Rutina?style=social" alt="Forks">
@@ -55,6 +56,7 @@ Actualmente, me estoy formando en el campo de la Inteligencia Artificial.
 <div style="border: 2px solid #4caf50; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   <h3><a href="https://github.com/angelsc75/Il-Consigliere">🌟 Il-Consigliere</a></h3>
   <p>Recomendador de películas entrenado con el dataset de MovieLens y que entrena un modelo de red neuronal con la base de datos Neoj4 y se conecta a la api de TMDB.</p>
+  <p>Tecnologías: Python | Neo4j | TensorFlow | Keras | React | Tailwind CSS  </p>
   <p>
     <img src="https://img.shields.io/github/stars/angelsc75/Il-Consigliere?style=social" alt="Stars">
     <img src="https://img.shields.io/github/forks/angelsc75/Il-Consigliere?style=social" alt="Forks">
