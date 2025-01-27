@@ -40,24 +40,7 @@ Actualmente, me estoy formando en el campo de la IA como Científico de Datos...
 
 
 
-
-
-
-
-## Oct-24: Proyecto ETL (proyecto realizado en equipo)
-**Descripción:** Flujo de datos de tipología variada que expulsa un Kafka a razón de mil datos por segundo. Se extraen, transforman y almacenan en dos bases de datos. Consumo de datos monitorizado.  
-**Tecnologías:** Python | KafkaConsumer | Redis | Postgres | MongoDB | SQLAlchemy | Streamlit | Prometheus | Grafana  
-
----
-
-
-
-
-
-
-
-
-## ⭐ Repositorios destacados
+## ⭐ Repositorios destacados ⭐
 
 <div style="border: 2px solid #4caf50; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   <h3><a href="https://github.com/angelsc75/rutina">🌟 Rutina</a></h3>
@@ -93,8 +76,19 @@ Actualmente, me estoy formando en el campo de la IA como Científico de Datos...
 </div>
 
 <div style="border: 2px solid #4caf50; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+  <h3><a href="https://github.com/angelsc75/ETL_project">🌟 Proyecto de ETL</a></h3>
+  <p>Proyecto de ETL, en el que se encauza un flujo de datos de tipología variada que expulsa un Kafka a razón de mil datos por segundo. Se extraen los datos, se transforman para guardarse en dos bases de datos. Consumo de datos monitorizado. .</p>
+  <p>Tecnologías:  Python | KafkaConsumer | Redis | Postgres | MongoDB | SQLAlchemy | Streamlit | Prometheus | Grafana  </p>
+  <p>
+    <img src="https://img.shields.io/github/stars/angelsc75/ETL_project?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/forks/angelsc75/ETL_project?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/languages/top/angelsc75/ETL_project" alt="Language">
+  </p>
+</div>
+
+<div style="border: 2px solid #4caf50; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   <h3><a href="https://github.com/angelsc75/Logo_Detector">🌟 Logo_Detector</a></h3>
-  <p>Detector de logos de marcas deportivas en vídeos. Las detecciones se guardan en una base de datos.</p>
+  <p>Proyecto de CV que es un detector de logos de marcas deportivas en vídeos. Las detecciones se guardan en una base de datos.</p>
   <p>Tecnologías: Python | YOLOv8 | FASTAPI | SQLite| Streamlit  </p>
   <p>
     <img src="https://img.shields.io/github/stars/angelsc75/Logo_Detector?style=social" alt="Stars">
