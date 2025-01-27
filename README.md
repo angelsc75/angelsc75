@@ -64,6 +64,27 @@ Actualmente, me estoy formando en el campo de la Inteligencia Artificial.
   </p>
 </div>
 
+<div style="border: 2px solid #4caf50; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+  <h3>🌟 CitaPlanner</h3>
+   <p>Aplicación que permite a un usuario-trabajador por cuenta propia ofrecer distintos servicios de diversa duración introduciendo su disponibilidad y a un usuario-cliente reservar dichos servicios.</p>
+  <p>Tecnologías: Java | Spring Boot | MySQL | Angular  </p>
+  <h3><a href="https://github.com/angelsc75/citaplanner_frontend">Frontend</a></h3>
+   <p>
+    <img src="https://img.shields.io/github/stars/angelsc75/citaplanner_frontend?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/forks/angelsc75/citaplanner_frontend?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/languages/top/angelsc75/citaplanner_frontend" alt="Language">
+  </p>
+  <h3><a href="https://github.com/angelsc75/citaplanner_backend">Backend</a></h3>
+   <p>
+    <img src="https://img.shields.io/github/stars/angelsc75/citaplanner_backend?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/forks/angelsc75/citaplanner_backend?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/languages/top/angelsc75/citaplanner_backend" alt="Language">
+  </p>
+ 
+  
+ 
+</div>
+
 
 
 
