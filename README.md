@@ -42,11 +42,7 @@ Actualmente, me estoy formando en el campo de la IA como Científico de Datos...
 
 
 
-## Nov-24: Bye, bye hate! (proyecto de NLP realizado en equipo)
-**Descripción:** Detector de mensajes ofensivos dentro de los comentarios de un vídeo de YouTube.  
-**Tecnologías:** Python | NLTK | Selenium | TensorFlow | Keras | MongoDB | MongoExpress | Streamlit | Docker | MLFlow  
 
----
 
 ## Oct-24: Proyecto ETL (proyecto realizado en equipo)
 **Descripción:** Flujo de datos de tipología variada que expulsa un Kafka a razón de mil datos por segundo. Se extraen, transforman y almacenan en dos bases de datos. Consumo de datos monitorizado.  
@@ -65,7 +61,7 @@ Actualmente, me estoy formando en el campo de la IA como Científico de Datos...
 
 <div style="border: 2px solid #4caf50; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   <h3><a href="https://github.com/angelsc75/rutina">🌟 Rutina</a></h3>
-  <p>Un generador de contenido para redes sociales, que ofrece información financiera y además redacta artículos científicos consultando los papers más relevantes de cada tema.</p>
+  <p>Proyecto de LLM´s que es un generador de contenido para redes sociales, que ofrece información financiera y además redacta artículos científicos consultando los papers más relevantes de cada tema.</p>
   <p>Tecnologías: Python | LLMs | RAG | LangSmith | LangChain | Streamlit | Docker  </p>
   <p>
     <img src="https://img.shields.io/github/stars/angelsc75/Rutina?style=social" alt="Stars">
@@ -84,6 +80,18 @@ Actualmente, me estoy formando en el campo de la IA como Científico de Datos...
     <img src="https://img.shields.io/github/languages/top/angelsc75/Il-Consigliere" alt="Language">
   </p>
 </div>
+
+<div style="border: 2px solid #4caf50; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+  <h3><a href="https://github.com/angelsc75/bye_bye_hate">🌟 Bye, bye, hate</a></h3>
+  <p>Proyecto de NLP que es un detector de mensajes ofensivos dentro de los comentarios de un vídeo de YouTube.</p>
+  <p>Tecnologías: Python | NLTK | Selenium| TensorFlow  | Keras | MongoDB | MongoExpress | Streamlit | Docker | MLFlow  </p>
+  <p>
+    <img src="https://img.shields.io/github/stars/angelsc75/bye_bye_hate?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/forks/angelsc75/bye_bye_hate?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/languages/top/angelsc75/bye_bye_hate" alt="Language">
+  </p>
+</div>
+
 <div style="border: 2px solid #4caf50; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   <h3><a href="https://github.com/angelsc75/Logo_Detector">🌟 Logo_Detector</a></h3>
   <p>Detector de logos de marcas deportivas en vídeos. Las detecciones se guardan en una base de datos.</p>
