@@ -16,28 +16,25 @@ Actualmente, me estoy formando en el campo de la IA como Científico de Datos...
     <tr>
       <td>
         <ul>
-          <li>Detección necesidades y <strong>empatía</strong></li>
-          <li>Creatividad</li>
-          <li>Proactividad</li>
-          <li>Autonomía</li>
-          <li>Experiencia en trabajo con <strong>Agile</strong> (técnica SCRUM)</li>
-          <li>Trabajo en equipo</li>
-          <li>Necesidad de aprendizaje constante</li>
+          <li>🤝 Detección necesidades y <strong>empatía</strong></li>
+          <li>💡Creatividad y <strong>proactividad</strong></li>
+          <li>🎯Autonomía y trabajo en equipo</li>
+          <li>🔄 Experiencia con <strong>Agile</strong> (SCRUM)</li>
+          <li>📚 Necesidad de aprendizaje constante</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Ciclo de proyecto</li>
-          <li>Programación orientada a objetos (<strong>Java</strong> | <strong>Python</strong>)</li>
-          <li>EDA y visualización de datos</li>
-          <li>Bases de datos relacionales y no relacionales (<strong>MySQL</strong> | <strong>PostgreSQL</strong> | <strong>MongoDB</strong> | <strong>Neo4j</strong>)</li>
-          <li>Modelos de <strong>Machine Learning</strong> y <strong>Deep Learning</strong> (<strong>Scikit Learn</strong> | <strong>TensorFlow</strong> | <strong>Keras</strong>)</li>
+          <li>🔄 Ciclo de vida completo de proyectos (End-to-End)</li>
+          <li>💻 Programación orientada a objetos (<strong>Java</strong> | <strong>Python</strong>)</li>
+          <li>🔍 EDA y visualización de datos</li>
+          <li>🛠️Bases de datos relacionales y no relacionales (<strong>MySQL</strong> | <strong>PostgreSQL</strong> | <strong>MongoDB</strong> | <strong>Neo4j</strong>)</li>
+          <li>🤖 Modelos de <strong>Machine Learning</strong> y <strong>Deep Learning</strong> (<strong>Scikit Learn</strong> | <strong>TensorFlow</strong> | <strong>Keras</strong>)</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
-
 
 
 ## ⭐ Repositorios destacados ⭐
