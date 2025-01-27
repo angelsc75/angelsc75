@@ -1,23 +1,46 @@
 # ¡Hola a Todos! 
-### Sobre Mí
+## Sobre Mí
 ¡Bienvenido a mi perfil de GitHub! 
-Actualmente, me estoy formando en el campo de la Inteligencia Artificial.
+Actualmente, me estoy formando en el campo de la IA como Científico de Datos...
+
+## Skills personales y técnicas
+
+<table>
+  <thead>
+    <tr>
+      <th><h3>Habilidades personales</h3></th>
+      <th><h3>Habilidades técnicas</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>Detección necesidades y <strong>empatía</strong></li>
+          <li>Creatividad</li>
+          <li>Proactividad</li>
+          <li>Autonomía</li>
+          <li>Experiencia en trabajo con <strong>Agile</strong> (técnica SCRUM)</li>
+          <li>Trabajo en equipo</li>
+          <li>Necesidad de aprendizaje constante</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Ciclo de proyecto</li>
+          <li>Programación orientada a objetos (<strong>Java</strong> | <strong>Python</strong>)</li>
+          <li>EDA y visualización de datos</li>
+          <li>Bases de datos relacionales y no relacionales (<strong>MySQL</strong> | <strong>PostgreSQL</strong> | <strong>MongoDB</strong> | <strong>Neo4j</strong>)</li>
+          <li>Modelos de <strong>Machine Learning</strong> y <strong>Deep Learning</strong> (<strong>Scikit Learn</strong> | <strong>TensorFlow</strong> | <strong>Keras</strong>)</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
-# PROYECTOS IA & FullStack
 
-## Ene-25: Il Consiglieri (proyecto personal)
-**Descripción:** Recomendador de películas entrenado con un modelo de red neuronal, conectado a la API de TMDB.  
-**Tecnologías:** Python | Neo4j | TensorFlow | Keras | React | Tailwind CSS  
-
----
-
-## Dic-24: Rutina (proyecto personal de LLMs)
-**Descripción:** Generador de contenido para varias redes sociales, información y noticias financieras, y redacción de artículos científicos con un LLM enriquecido con papers de arXiv.  
-**Tecnologías:** Python | LLMs | RAG | LangSmith | LangChain | Streamlit | Docker  
-
----
 
 ## Nov-24: Bye, bye hate! (proyecto de NLP realizado en equipo)
 **Descripción:** Detector de mensajes ofensivos dentro de los comentarios de un vídeo de YouTube.  
@@ -31,9 +54,7 @@ Actualmente, me estoy formando en el campo de la Inteligencia Artificial.
 
 ---
 
-## May-24: CitaPlanner (Proyecto Full Stack realizado en equipo)
-**Descripción:** Aplicación que permite a un usuario-trabajador por cuenta propia ofrecer distintos servicios de diversa duración y a un usuario-cliente reservar dichos servicios.  
-**Tecnologías:** Java | Spring Boot | MySQL | Angular
+
 
 
 
