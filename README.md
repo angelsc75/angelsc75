@@ -63,6 +63,16 @@ Actualmente, me estoy formando en el campo de la Inteligencia Artificial.
     <img src="https://img.shields.io/github/languages/top/angelsc75/Il-Consigliere" alt="Language">
   </p>
 </div>
+<div style="border: 2px solid #4caf50; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+  <h3><a href="https://github.com/angelsc75/Logo_Detector">🌟 Logo_Detector</a></h3>
+  <p>Detector de logos de marcas deportivas en vídeos. Las detecciones se guardan en una base de datos.</p>
+  <p>Tecnologías: Python | YOLOv8 | FASTAPI | SQLite| Streamlit  </p>
+  <p>
+    <img src="https://img.shields.io/github/stars/angelsc75/Logo_Detector?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/forks/angelsc75/Logo_Detector?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/languages/top/angelsc75/Logo_Detector" alt="Language">
+  </p>
+</div>
 
 <div style="border: 2px solid #4caf50; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   <h3>🌟 CitaPlanner</h3>
