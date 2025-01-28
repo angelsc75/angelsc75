@@ -98,17 +98,17 @@ Actualmente, me estoy formando en el campo de la IA como Científico de Datos...
   <h3>🌟 CitaPlanner</h3>
    <p>Aplicación que permite a un usuario-trabajador por cuenta propia ofrecer distintos servicios de diversa duración introduciendo su disponibilidad y a un usuario-cliente reservar dichos servicios.</p>
   <p>Tecnologías: Java | Spring Boot | MySQL | Angular  </p>
-  <h3><a href="https://github.com/angelsc75/citaplanner_frontend">Frontend</a></h3>
+  <h3><a href="https://github.com/angelsc75/frontend_citaplanner">Frontend</a></h3>
    <p>
-    <img src="https://img.shields.io/github/stars/angelsc75/citaplanner_frontend?style=social" alt="Stars">
-    <img src="https://img.shields.io/github/forks/angelsc75/citaplanner_frontend?style=social" alt="Forks">
-    <img src="https://img.shields.io/github/languages/top/angelsc75/citaplanner_frontend" alt="Language">
+    <img src="https://img.shields.io/github/stars/angelsc75/frontend_citaplanner?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/forks/angelsc75/frontend_citaplanner?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/languages/top/angelsc75/frontend_citaplanner" alt="Language">
   </p>
-  <h3><a href="https://github.com/angelsc75/citaplanner_backend">Backend</a></h3>
+  <h3><a href="https://github.com/angelsc75/backend_citaplanner">Backend</a></h3>
    <p>
-    <img src="https://img.shields.io/github/stars/angelsc75/citaplanner_backend?style=social" alt="Stars">
-    <img src="https://img.shields.io/github/forks/angelsc75/citaplanner_backend?style=social" alt="Forks">
-    <img src="https://img.shields.io/github/languages/top/angelsc75/citaplanner_backend" alt="Language">
+    <img src="https://img.shields.io/github/stars/angelsc75/backend_citaplanner?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/forks/angelsc75/backend_citaplanner?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/languages/top/angelsc75/backend_citaplanner" alt="Language">
   </p>
  
   
