@@ -51,6 +51,17 @@ Actualmente, me estoy formando en el campo de la IA como Científico de Datos...
 </div>
 
 <div style="border: 2px solid #4caf50; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+  <h3><a href="https://github.com/angelsc75/La-Rasquetia">🌟 La Rasquetia</a></h3>
+  <p>Proyecto pedagógico con la empresa Experian como stakeholder. Solución en la nube y donde pueden trabajar varios equipos al mismo tiempo, para la búsqueda  y actualización de los datos de contacto de 100.000 empresas.</p>
+  <p>Tecnologías: Tecnologías: PostgreSQL | Supabase | Redis | LLM´s | Regex | Python | Beautiful Soup  </p>
+  <p>
+    <img src="https://img.shields.io/github/stars/angelsc75/La-Rasquetia?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/forks/angelsc75/La-Rasquetia?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/languages/top/angelsc75/La-Rasquetia" alt="Language">
+  </p>
+</div>
+
+<div style="border: 2px solid #4caf50; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   <h3><a href="https://github.com/angelsc75/Il-Consigliere">🌟 Il-Consigliere</a></h3>
   <p>Recomendador de películas entrenado con el dataset de MovieLens y que entrena un modelo de red neuronal con la base de datos Neoj4 y se conecta a la api de TMDB.</p>
   <p>Tecnologías: Python | Neo4j | TensorFlow | Keras | React | Tailwind CSS  </p>
